@@ -12,6 +12,13 @@ I’m Currently working on the Python Scraping libraries (scrapy, selenium), als
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Prit2341&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prit2341&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+## Some of My Recent Blog
+<li>https://prit-mayani.medium.com/what-is-docker-33a84fb050d0</li>
+<li>https://prit-mayani.medium.com/data-is-osemn-4d3c676378b3</li>
+<li>https://prit-mayani.medium.com/recommendation-system-with-python-step-by-step-9d31af7c8328</li>
+<li>https://prit-mayani.medium.com/is-brave-really-what-we-told-off-88740c9ffdbf</li>
+<li>https://prit-mayani.medium.com/firebase-google-auth-with-flutter-3e654b1340f6</li>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
